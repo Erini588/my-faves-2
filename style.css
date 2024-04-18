@@ -1,0 +1,30 @@
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h2 {
+  color: rgb(255, 255, 255);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+li {
+  color: rgb(163, 163, 163);
+}
+p {
+  color: rgb(139, 139, 139);
+}
+html {
+  background-color: rgb(3, 16, 48);
+}
+body {
+  background-color: rgb(12, 23, 61);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 2px solid black;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+  text-align: center;
+}
+ul {
+  list-style-position: inside;
+}
